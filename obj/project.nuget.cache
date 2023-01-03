@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYCpra6MXyPGGmHgSoK+wLLHrqqPL+uaJfncxHS1e1esWBIugFExvNW285iazF2z9f77Nte65PZoQbG01tRtqw==",
+  "success": true,
+  "projectFilePath": "H:\\estudo\\cursos\\DIO\\C# e .Net\\Introduçãoa .Net, historia, versões e uso\\pratica\\sistema-estacionamento\\ParkingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor ayres\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\vitor ayres\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\vitor ayres\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\vitor ayres\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
